@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "partners-dummy",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "Company One", "isMaster": "true" }, "geometry": { "type": "Point", "coordinates": [ 14.440126411094081, 50.076777416538356 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "Cool Company", "isMaster": "" }, "geometry": { "type": "Point", "coordinates": [ 11.076991609249619, 49.369313604842695 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "Super Cool Company", "isMaster": null }, "geometry": { "type": "Point", "coordinates": [ 16.628833186897619, 49.160298740342419 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "Very Cool Company", "isMaster": "true" }, "geometry": { "type": "Point", "coordinates": [ 11.557439438084545, 48.128649107270022 ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "Some Other Company", "isMaster": null }, "geometry": { "type": "Point", "coordinates": [ -1.548109670690311, 53.808998922719397 ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "Something Like a Company", "isMaster": null }, "geometry": { "type": "Point", "coordinates": [ 18.043485127356007, 59.299151430956165 ] } },
+{ "type": "Feature", "properties": { "fid": 7, "name": "Superb Company", "isMaster": "true" }, "geometry": { "type": "Point", "coordinates": [ 18.710773778515627, 54.333667128529648 ] } }
+]
+}
